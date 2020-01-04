@@ -1,0 +1,1 @@
+Com o intuito de aprender e entender como funciona o Nodejs juntos com Express e MySql foi criado esta aplicação de perguntas e respostas anônimo. Nesta aplicação foi utilizado: EJS, Nodejs, MySql, Sequelize, Xpress.
